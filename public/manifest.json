@@ -1,0 +1,26 @@
+{
+  "name": "MediCare AI - Smart Medicine Reminder",
+  "short_name": "MediCare AI",
+  "description": "AI-powered medicine reminder system with voice interaction and caregiver alerts",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%233b82f6' rx='20'/%3E%3Cpath fill='white' d='M96 48c-8.8 0-16 7.2-16 16v16H64c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h16v16c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-16h16c8.8 0 16-7.2 16-16V96c0-8.8-7.2-16-16-16h-16V64c0-8.8-7.2-16-16-16H96z'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%233b82f6' rx='50'/%3E%3Cpath fill='white' d='M256 128c-23.5 0-42.7 19.2-42.7 42.7v42.6H170.7c-23.5 0-42.7 19.2-42.7 42.7v85.3c0 23.5 19.2 42.7 42.7 42.7h42.6v42.7c0 23.5 19.2 42.7 42.7 42.7h85.3c23.5 0 42.7-19.2 42.7-42.7V341.3h42.7c23.5 0 42.7-19.2 42.7-42.7V213.3c0-23.5-19.2-42.7-42.7-42.7H341.3v-42.6c0-23.5-19.2-42.7-42.7-42.7H256z'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["health", "medical", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}
