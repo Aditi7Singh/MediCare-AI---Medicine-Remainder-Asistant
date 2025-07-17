@@ -46,10 +46,6 @@ MediCare AI is an advanced, AI-powered medicine reminder and health management s
 ├── .env
 └── README.md
 
-markdown
-Copy
-Edit
-
 ## 🛠️ Installation
 
 1. Clone the repo  
